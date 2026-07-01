@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0011/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0011/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 最妙勝定經
+  identifiers:
+    krp: KR6v0011
+    cbeta: ZW01n0010
+    cbeta_old_id: ZW01n0010
+    authorityid: CA0008372
+    json_key: ZW0010
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0010.xml
+    old_id: ZW01n0010
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0011_000-ZW.yaml, hash: 'sha256:b9f943223b0924bb51c76b9bf0d7df94bb95ffabc0b3019c6c10be338cf829d9'}
+  - {seq: 1, filename: KR6v0011_001-ZW.yaml, hash: 'sha256:e57a3ec8f9d04b689a0318a9a36658aa0747b8f3f2cfcc3799aed1020a59fe03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0011_000-ZW.markers.yaml, hash: 'sha256:90b26ebf3760724803d78d1b06c56be61bbdb4358fa21ca3967045409add2591'}
+  - {seq: 1, role: markers, filename: assets/KR6v0011_001-ZW.markers.yaml, hash: 'sha256:ff992b191d7a7ba4cf3ae02bfdb18e4097bae918962978d786529ac73e5532db'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0011_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0011_ZW_000-mulu-2
+    span:
+    - front
+    - 429
+    - 429
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0011_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 3988
+  label: 最妙勝定經
+  type: juan
+  level: 1
+hash: sha256:711a1f588a358e985b0b8466696d92a537f8c062e97c4f39ffe81faa8a8575fb
