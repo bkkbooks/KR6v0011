@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0011_000.yaml, hash: 'sha256:99fffb71b403fd4e43ff99a36d88d8c2cb3f3e97bc8abb363e4741a679020c4e'}
-  - {seq: 1, filename: KR6v0011_001.yaml, hash: 'sha256:406d1bad39325d13e6d38b8f8249ff021414acb663052ecf17de605de0248a36'}
+  - {seq: 0, filename: KR6v0011_000.yaml, hash: 'sha256:b9f943223b0924bb51c76b9bf0d7df94bb95ffabc0b3019c6c10be338cf829d9'}
+  - {seq: 1, filename: KR6v0011_001.yaml, hash: 'sha256:e57a3ec8f9d04b689a0318a9a36658aa0747b8f3f2cfcc3799aed1020a59fe03'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0011_000.markers.yaml, hash: 'sha256:055851cf6d3f6f8a4a181603cf3a82d14b82c4f346de402c94837f047ad8c126'}
-  - {seq: 1, role: markers, filename: assets/KR6v0011_001.markers.yaml, hash: 'sha256:a3a14bee27dddfa4fab65ae2cbd1be547000b87b431da60ea065cb497552121c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0011_000.markers.yaml, hash: 'sha256:21e1c33ee3108aa72dcdcb10abf791d3156092496521ddf1f1851cd8de94e4e3'}
+  - {seq: 1, role: markers, filename: assets/KR6v0011_001.markers.yaml, hash: 'sha256:d06f028dc5015994078a8df7caa91b78d930efb7dc424ae0969929862d45c658'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 最妙勝定經
   type: juan
   level: 1
-hash: sha256:67de7fe4b172685c664698a19ea46e53ce51f100e35d2fee8ea9b909e1c2c184
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9e2efd098acd2936b4d023ac3941b239b47972ba9b6f65251598612590435a33
 editions:
 - short: ZW
